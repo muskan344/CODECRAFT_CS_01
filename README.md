@@ -14,5 +14,6 @@ The Brief of the given task is Create a Python program that can encrypt and decr
 
 ## 1. Clone the repository
 
+```bash
 git clone https://github.com/yourusername/Caesar_Cipher.git
 cd Caesar_Cipher
