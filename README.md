@@ -33,7 +33,12 @@ When you run the script, you’ll be prompted to:
 - Enter the shift value (e.g., 3)
 
 ## Example 
-```pgsql === Caesar Cipher Encryption & Decryption === Type 'encrypt' to encrypt or 'decrypt' to decrypt: encrypt Enter your message: Hello World! Enter shift value (e.g., 3): 3 Encrypted Message: Khoor Zruog! ``` 
+```bash
+=== Caesar Cipher Encryption & Decryption === 
+Type 'encrypt' to encrypt or 'decrypt' to decrypt: encrypt
+Enter your message: Hello World! Enter shift value (e.g., 3): 3
+Encrypted Message: Khoor Zruog!
+``` 
 
 ## Output 
 - This implementation only shifts alphabetical characters (A-Z, a-z).
