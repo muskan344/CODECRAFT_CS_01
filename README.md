@@ -6,7 +6,7 @@ The Brief of the given task is Create a Python program that can encrypt and decr
 
 ## Project Structure
 
-'''Caesar_Cipher/
-├── caesar_cipher.py # Main script for encryption and decryption
+'''Caesar_Cipher \n
+├── caesar_cipher.py # Main script for encryption and decryption \n
 ├── README.md # Project documentation'''
 
