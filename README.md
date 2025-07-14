@@ -27,7 +27,7 @@ python caesar_cipher.py
 
 ## Usage
 When you run the script, you’ll be prompted to:
-Choose between encryption or decryption
-Enter your message
-Enter the shift value (e.g., 3)
 
+- Choose between encryption or decryption  
+- Enter your message  
+- Enter the shift value (e.g., 3)
