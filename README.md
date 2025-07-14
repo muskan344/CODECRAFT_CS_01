@@ -32,7 +32,8 @@ When you run the script, you’ll be prompted to:
 - Enter your message  
 - Enter the shift value (e.g., 3)
 
-<pre lang="markdown"> ### 🔁 Example ```pgsql === Caesar Cipher Encryption & Decryption === Type 'encrypt' to encrypt or 'decrypt' to decrypt: encrypt Enter your message: Hello World! Enter shift value (e.g., 3): 3 Encrypted Message: Khoor Zruog! ``` </pre>
+## Example 
+```pgsql === Caesar Cipher Encryption & Decryption === Type 'encrypt' to encrypt or 'decrypt' to decrypt: encrypt Enter your message: Hello World! Enter shift value (e.g., 3): 3 Encrypted Message: Khoor Zruog! ``` 
 
 ## Output 
 - This implementation only shifts alphabetical characters (A-Z, a-z).
