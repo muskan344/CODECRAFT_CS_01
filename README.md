@@ -4,11 +4,6 @@ This particular repository is about a task given to me during my internship in c
 
 The Brief of the given task is Create a Python program that can encrypt and decrypt text using the Caesar Cipher algorithm. Allow users to input a message and a shift value to perform encryption and decryption.
 
-## Project Structure
-Caesar_Cipher/
-  ├── caesar_cipher.py
-  └── README.md
-
 ## Setup
 
 ## 1. Clone the repository
