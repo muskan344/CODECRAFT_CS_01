@@ -17,3 +17,17 @@ The Brief of the given task is Create a Python program that can encrypt and decr
 ```bash
 git clone https://github.com/yourusername/Caesar_Cipher.git
 cd Caesar_Cipher
+```
+
+## 2. Run the program
+
+```bash
+python caesar_cipher.py
+```
+
+## Usage
+When you run the script, you’ll be prompted to:
+Choose between encryption or decryption
+Enter your message
+Enter the shift value (e.g., 3)
+
