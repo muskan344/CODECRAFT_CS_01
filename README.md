@@ -10,3 +10,9 @@ The Brief of the given task is Create a Python program that can encrypt and decr
 ├── caesar_cipher.py # Main script for encryption and decryption \n
 ├── README.md # Project documentation'''
 
+## Setup
+
+## 1. Clone the repository
+
+git clone https://github.com/yourusername/Caesar_Cipher.git
+cd Caesar_Cipher
